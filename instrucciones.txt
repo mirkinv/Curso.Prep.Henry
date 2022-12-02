@@ -1,0 +1,14 @@
+	* Variables
+es un elemento que se usa para almacenar valores de distintos tipos, numeros, cadenas, booleanos
+	
+	* Strings
+se refiere a valores de textos, caracteres, o cadenas de caracteres
+	
+	* Funciones (argumentos, `return`)
+las funciones son un conjunto de código o un conjunto de instrucciones que realiza una tarea específica, o un calculo, 
+	
+	* Declaraciones `if`
+es un operador condicional que devuelve TRUE O FALSE de una consulta, y de esto depende que operaciones realiza sobre si se cumple o no
+
+	* Valores booleanos (`true`, `false`)
+Son valores estrictos sobre verdadero o falso a ser usados en una condicion 
